@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            /*string test1 = "4433555 5556660#";          // HELLO_
+            string test1 = "4433555 5556660#";          // HELLO_
             string test2 = "7777777733 33 0 66#";       // SEE N
             string test3 = "2*22#";                     // B (first A deleted, then B)
             string test4 = "**4 444 44#";               // GIH
@@ -15,16 +15,16 @@
             string test9 = "222222 222 222 2#";         // CCCA
             string test10 = "7777 7777 7777#";          // SSS
 
-            Console.WriteLine(OldPhonePad(test1));
-            Console.WriteLine(OldPhonePad(test2));
-            Console.WriteLine(OldPhonePad(test3));
-            Console.WriteLine(OldPhonePad(test4));
-            Console.WriteLine(OldPhonePad(test5));
-            Console.WriteLine(OldPhonePad(test6));
-            Console.WriteLine(OldPhonePad(test7));
-            Console.WriteLine(OldPhonePad(test8));
-            Console.WriteLine(OldPhonePad(test9));
-            Console.WriteLine(OldPhonePad(test10));*/
+            Console.WriteLine(Phone.OldPhonePad(test1));
+            Console.WriteLine(Phone.OldPhonePad(test2));
+            Console.WriteLine(Phone.OldPhonePad(test3));
+            Console.WriteLine(Phone.OldPhonePad(test4));
+            Console.WriteLine(Phone.OldPhonePad(test5));
+            Console.WriteLine(Phone.OldPhonePad(test6));
+            Console.WriteLine(Phone.OldPhonePad(test7));
+            Console.WriteLine(Phone.OldPhonePad(test8));
+            Console.WriteLine(Phone.OldPhonePad(test9));
+            Console.WriteLine(Phone.OldPhonePad(test10));
 
         }
 
